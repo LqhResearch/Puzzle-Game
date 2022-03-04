@@ -1,0 +1,13 @@
+A:\Puzzle-Game\New Puzzle Game\bin\Debug\New Puzzle Game.exe.config
+A:\Puzzle-Game\New Puzzle Game\bin\Debug\New Puzzle Game.exe
+A:\Puzzle-Game\New Puzzle Game\bin\Debug\New Puzzle Game.pdb
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New Puzzle Game.csproj.AssemblyReference.cache
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New_Puzzle_Game.About.resources
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New_Puzzle_Game.Main.resources
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New_Puzzle_Game.Properties.Resources.resources
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New_Puzzle_Game.PuzzleGame1.resources
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New_Puzzle_Game.PuzzleGame2.resources
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New Puzzle Game.csproj.GenerateResource.cache
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New Puzzle Game.csproj.CoreCompileInputs.cache
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New Puzzle Game.exe
+A:\Puzzle-Game\New Puzzle Game\obj\Debug\New Puzzle Game.pdb
